@@ -3,7 +3,7 @@ import requests
 def login(username, password):
     # Same as before...
 
-def report_user(session, user_id):
+if report_user(session, user_id):
     # Same as before...
 
 if __name__ == "__main__":
