@@ -14,7 +14,7 @@ if __name__ == "__main__":
     user_id_to_report = '123456789'  # Replace '123456789' with the user ID of the profile you want to report
     num_reports = 100
 
-    session = login(your_username, your_password)
+    session = login(codandimana_, GWtampan09_)
 
     for i in range(num_reports):
         report_user(session, user_id_to_report)
